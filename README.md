@@ -1,13 +1,10 @@
 # 👋 Hello, I'm Munagala Venkata Sasikumar
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Problem+Solving+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
-
 ```javascript
 const sasikumar = {
     location: "India 🇮🇳",
@@ -27,7 +24,6 @@ const sasikumar = {
 ---
 
 ## 🛠️ Tech Arsenal
-
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -64,7 +60,6 @@ const sasikumar = {
 </table>
 
 ## 🤝 Connect With Me
-
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mvskumar9393)

@@ -42,7 +42,6 @@ const sasikumar = {
 ### ⚡ **Backend Power**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -54,10 +53,11 @@ const sasikumar = {
 ### 🔧 **Tools & Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 🧠 **Core Strengths**
-`Data Structures` • `Algorithms` • `Problem Solving` • `System Design`
+`Data Structures` • `Algorithms` • `Problem Solving` • `System Design` • `API Testing`
 
 </td>
 </tr>
@@ -76,12 +76,9 @@ const sasikumar = {
 
 ---
 
-
-
 <div align="center">
   
 ### 😄 Developer Humor
-
 *"99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code!"*
 
 **Thanks for visiting! Let's build something awesome together! 🚀**

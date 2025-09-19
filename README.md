@@ -11,10 +11,10 @@
 ```javascript
 const sasikumar = {
     location: "India 🇮🇳",
-    interests: ["Web Development", "Problem Solving"],
-    currentFocus: "Building responsive web applications",
-    funFact: "I love CSS animations and algorithmic challenges!",
-    lifePhilosophy: "Code, Learn, Repeat 🔄"
+    role: "Full Stack Developer",
+    passion: "Problem solving & clean code",
+    currentFocus: "Building scalable and optimizing web solutions",
+    funFact: "I love solving algorithmic puzzles and debugging code!"
 };
 ```
 
